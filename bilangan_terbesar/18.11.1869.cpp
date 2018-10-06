@@ -11,26 +11,17 @@ using namespace std; // Memberi tahu program bahwa kita menggunakan namespace st
 int main()
 {
   int numbers[3], // Array dengan tipe integer dengan size 3 digunakan menyimpan nilai yang akan dibandingkan.
-      besar,      // Variabel dengan tipe integer yang digunakan untuk menyimpan nilai terbesar.
-      kecil;      // Variabel dengan tipe integer yang digunakan untuk menyimpan nilai terkecil.
+      besar;      // Variabel dengan tipe integer yang digunakan untuk menyimpan nilai terbesar.
 
-  cout << "masukkan angka : ";                   // mengoutputkan.
+  cout << "Masukkan angka : ";                   // mengoutputkan.
   cin >> numbers[0] >> numbers[1] >> numbers[2]; // minginputkan 3 angka dengan dibatasi spasi.
 
-  for (int i = 0; i < 3; i++) // perulangan hingga kurang dari 3.
+  for (int i = 0; i < 3; i++) // perulangan hingga kurang dari 3. ? karena indek array dimulai dari 0.
   {
-    if (numbers[i] >= besar)
-    {                     // kondisi ketika numbers[i] lebih besar atau sama dengan dari variabel.
-      besar = numbers[i]; // jika true maka ganti nilai variabel besar dengan nilai variabel array index ke i.
-    }
-    else
-    {                     // jika nilai numbers ke i tidak besar atau sama dengan maka lakukan else.
-      kecil = numbers[i]; // jik false maka ganti nilai variabel kecil dengan nilai variabel array index ke i.
-    }
+    // menghilangkan curly bracket pada if statement untuk menghemat kodingan.
+    if (numbers[i] >= besar) // pengkondisian ketika numbers indek ke i lebih besar atau sama dengan dari variabel besar.
+      besar = numbers[i];    // jika true maka ganti nilai variabel besar dengan nilai variabel array index ke i.
   }
-
   cout << "Bilangan terbesar adalah " << besar << endl; // mengoutputkan hasil nilai terbesar.
-  cout << "Bilangan terkecil adalah " << kecil;         // mengoutputkan hasil nilai terkecil.
-
   return 0;
 }
