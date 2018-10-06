@@ -1,1 +1,1 @@
-<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&ved=2ahUKEwj5vOjgoPLdAhVHU30KHRQrCNMQjRx6BAgBEAU&url=https%3A%2F%2Fmedium.com%2Fcodelabs-unikom%2F7-alasan-mempelajari-c-ee755c2529b8&psig=AOvVaw3q9h6ICPe1A1E9mCaCp7Ov&ust=1538930435014163" align="center">
+<img src="https://cdn-images-1.medium.com/max/360/1*AtZsuD4fJNI1adoNh53Hbg.png" align="center">
