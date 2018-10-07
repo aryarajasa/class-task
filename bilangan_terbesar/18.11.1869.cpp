@@ -1,5 +1,5 @@
 /*
- * Title  : Mencari bilangan terbesar dan terkecil.
+ * Title  : Mencari bilangan terbesar.
  * Name   : Choirul Mahendrata Harpi
  * Class  : 18.IF.01
  * NIM    : 18.11.1869
