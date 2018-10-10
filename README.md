@@ -6,7 +6,7 @@
 </h1>
 
 
-Ini adalah repository tugas kuliah dengan materi **Algoritma dan Pemprograman** kelas **18.S1IF.01** yang diemplementasikan menggunakan bahasa pemprograman C++, yang materi oleh Pak [**Bayu Setiaji, M.Kom**](http://dosen.amikom.ac.id/index.php/profil/Bayu%20Setiaji,%20M.Kom) dan beliau sangat suka bersepeda 🚴.
+Ini adalah repository tugas kuliah dengan materi **Algoritma dan Pemprograman** kelas **18.S1IF.01** yang diemplementasikan menggunakan bahasa pemprograman C++, yang dimateri oleh Pak [**Bayu Setiaji, M.Kom**](http://dosen.amikom.ac.id/index.php/profil/Bayu%20Setiaji,%20M.Kom) dan beliau sepertinya menyukai bersepeda 🚴.
 
 Berikut Daftar tugas :
 
