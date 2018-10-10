@@ -6,7 +6,7 @@
 </h1>
 
 
-Ini adalah repository tugas kuliah dengan materi **Algoritma dan Pemprograman** kelas **18.S1IF.01** yang diemplementasikan menggunakan bahasa pemprograman C++, yang dimateri oleh Pak [**Bayu Setiaji, M.Kom**](http://dosen.amikom.ac.id/index.php/profil/Bayu%20Setiaji,%20M.Kom) dan beliau sepertinya menyukai bersepeda 🚴, tujuan repo ini adalah sebagai arsip proses belajar semasa kuliah.
+Ini adalah repository tugas kuliah dengan materi **Algoritma dan Pemprograman** kelas **18.S1IF.01** yang diemplementasikan menggunakan bahasa pemprograman C++, yang dimateri oleh Pak [**Bayu Setiaji, M.Kom**](http://dosen.amikom.ac.id/index.php/profil/Bayu%20Setiaji,%20M.Kom) dan beliau sepertinya menyukai bersepeda 🚴, tujuan repo ini adalah sebagai arsip belajar semasa kuliah.
 
 Berikut Daftar tugas :
 
@@ -14,7 +14,7 @@ Berikut Daftar tugas :
 -  [Rumus bangun datar.](https://github.com/piharpi/class_task/tree/master/order_jambu)
 -  [Sistem diskon pada penjualan jambu.](https://github.com/piharpi/class_task/tree/master/rumus_bangun_datar)
 
-Kalian bisa mendownload sebagai referensi tugas maupun belajar.
+Kalian bisa mendownload sebagai referensi tugas maupun belajar, jangan lupa beri bintang repo ini.
 
 <br>
 <br>
