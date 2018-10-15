@@ -9,32 +9,36 @@
  *
  */
 
-
-
-#include <iostream>
-#include <iomanip>
+#include <iostream> // Menginputkan standar library c++ yang berisi, cin, cout.
+#include <iomanip>  // Menginputkan standar library c++ yang setw() dan masih banyak lagi.
 
 using namespace std;
 
-int main(){
+int main()
+{
 
-  const int price = 15000;
-  int items,
+  const int price = 15000; // variabel const bertipe integer bernama price
+  int items,               // deklarasi variabel bernama items dan total bertipe integer
       total;
-  float disc;
+  float disc; // deklarsi variabel bernama disc bertipe float
 
-  cout << "-- Kulakan Jambu 15k, diskonan --- " << endl;
-  cout << "   Harga Rp. " << price << "/kg" << endl << endl;
-  cout << "   Beli :      kg\b\b\b\b\b\b\b";
-  cin >> items;
+  cout << "-- Kulakan Jambu 15k, diskonan --- " << endl; // output string
+  cout << "   Harga Rp. " << price << "/kg" << endl      // output string disertai variable price
+       << endl;                                          // baris baru
+  cout << "   Beli :      kg\b\b\b\b\b\b\b";             // output string dengan backspace agar inputan items bergeser ke kiri
+  cin >> items;                                          // masukkan ke variabel items
 
-  total = items * price;
-  disc = (items > 5) ? (items > 10) ? 10 : 5 : 0;
-  disc *= total / 100;
+  total = items * price;                          // perhitungan jumlah item yang dibeli dikali harga
+  disc = (items > 5) ? (items > 10) ? 10 : 5 : 0; // penentuan diskon menggunakan ternary operator
+  disc *= total / 100;                            // penghitungan diskon total beli dibagi / 100 dikali diskon
 
-  cout << endl <<"   Total: Rp. " << setw(10) << total << endl;
-  cout << "   Disc.: Rp. " << setw(10) << disc << endl;
-  cout << "          ___________________ _" << endl;
+  cout << endl                                           // baris baru
+       << "   Total: Rp. " << setw(10) << total << endl; // setw : menggeser ke kanan 10 baris atau memberikan lebar bidang
+  cout << "   Disc.: Rp. " << setw(10) << disc << endl;  // setw : menggeser ke kanan 10 baris atau memberikan lebar bidang
+  cout << "          ___________________ _" << endl;     // output string
 
-  cout << "   Bayar: Rp. " << setw(10) << total - disc << endl << endl << endl;
+  cout << "   Bayar: Rp. " << setw(10) << total - disc << endl // penentuan potongan harga total harga - total diskon dan  menggeser ke kanan 10 baris atau memberikan lebar bidang
+       << endl                                                 // baris baru
+       << endl;                                                // baris baru
+       return 0;
 }
