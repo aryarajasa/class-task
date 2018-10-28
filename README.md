@@ -14,6 +14,7 @@ Berikut Daftar tugas :
 -  [Rumus bangun datar.](https://github.com/piharpi/class_task/tree/master/order_jambu)
 -  [Sistem diskon pada penjualan jambu.](https://github.com/piharpi/class_task/tree/master/rumus_bangun_datar)
 -  [Mencari Bilangan Prima dengan range.](https://github.com/piharpi/class_task/tree/master/bilangan_prima)
+-  [Sistem Penyimpanan Barang ke gudang.](https://github.com/piharpi/class_task/tree/master/bilangan_prima)
 
 Kalian bisa mendownload sebagai referensi tugas maupun belajar, jangan lupa beri bintang repo ini.
 
