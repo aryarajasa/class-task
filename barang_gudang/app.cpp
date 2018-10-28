@@ -80,6 +80,10 @@ int main()
         cout << "Data masih kosong\n";
         cin.get();
       }
+    } else if(menu == 0) {
+      break;
+    } else {
+      cout << "Pilihan tidak tersedia\n";
     }
   }
 	// system("cls");
