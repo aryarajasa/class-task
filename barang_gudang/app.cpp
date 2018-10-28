@@ -1,3 +1,11 @@
+/*
+ * Title  : Mencari bilangan prima.
+ * Name   : Choirul Mahendrata Harpi
+ * Class  : 18.IF.01
+ * NIM    : 18.11.1869
+ */
+
+
 #include <iostream>
 #include <iomanip>
 #include <string>
