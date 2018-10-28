@@ -1,5 +1,5 @@
 /*
- * Title  : Mencari bilangan prima.
+ * Title  : Sistem Penyimpanan Barang ke gudang.
  * Name   : Choirul Mahendrata Harpi
  * Class  : 18.IF.01
  * NIM    : 18.11.1869
