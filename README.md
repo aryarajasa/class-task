@@ -15,7 +15,7 @@ Berikut Daftar tugas :
 -  [Sistem diskon pada penjualan jambu.](https://github.com/piharpi/class_task/tree/master/rumus_bangun_datar)
 -  [Mencari Bilangan Prima dengan range.](https://github.com/piharpi/class_task/tree/master/bilangan_prima)
 -  [Sistem Penyimpanan Barang ke gudang.](https://github.com/piharpi/class-task/tree/master/barang_gudang) tambahkan flag ```-std=C++11``` pada saat mengcompile program.
--  [Jawaban UTS Semester 1.](https://github.com/piharpi/class-task/tree/master/uts)
+-  [Jawaban UTS Semester 1.](https://github.com/piharpi/class-task/tree/master/uts) beberapa jawaban pada ```soal.jpeg``` salah, itu jawaban milik orang :D.
 
 Kalian bisa mendownload sebagai referensi tugas maupun belajar, jangan lupa beri bintang repo ini.
 
